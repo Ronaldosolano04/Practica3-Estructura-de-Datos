@@ -1,0 +1,15 @@
+C:\Users\User\SistemaColecciones\bin\Debug\net10.0\SistemaColecciones.exe
+C:\Users\User\SistemaColecciones\bin\Debug\net10.0\SistemaColecciones.deps.json
+C:\Users\User\SistemaColecciones\bin\Debug\net10.0\SistemaColecciones.runtimeconfig.json
+C:\Users\User\SistemaColecciones\bin\Debug\net10.0\SistemaColecciones.dll
+C:\Users\User\SistemaColecciones\bin\Debug\net10.0\SistemaColecciones.pdb
+C:\Users\User\SistemaColecciones\obj\Debug\net10.0\SistemaColecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\SistemaColecciones\obj\Debug\net10.0\SistemaColecciones.AssemblyInfoInputs.cache
+C:\Users\User\SistemaColecciones\obj\Debug\net10.0\SistemaColecciones.AssemblyInfo.cs
+C:\Users\User\SistemaColecciones\obj\Debug\net10.0\SistemaColecciones.csproj.CoreCompileInputs.cache
+C:\Users\User\SistemaColecciones\obj\Debug\net10.0\SistemaColecciones.sourcelink.json
+C:\Users\User\SistemaColecciones\obj\Debug\net10.0\SistemaColecciones.dll
+C:\Users\User\SistemaColecciones\obj\Debug\net10.0\refint\SistemaColecciones.dll
+C:\Users\User\SistemaColecciones\obj\Debug\net10.0\SistemaColecciones.pdb
+C:\Users\User\SistemaColecciones\obj\Debug\net10.0\SistemaColecciones.genruntimeconfig.cache
+C:\Users\User\SistemaColecciones\obj\Debug\net10.0\ref\SistemaColecciones.dll
